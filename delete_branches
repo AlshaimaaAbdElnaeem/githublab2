@@ -1,0 +1,6 @@
+Tell me how to remove them locally and remotely
+1- To delete a remote branch
+=> git push origin :branch_name
+
+1- To delete a local branch
+=> git branch -d branch_name
